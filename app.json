@@ -39,6 +39,18 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Poppins/Poppins-Regular.ttf",
+            "./assets/fonts/Poppins/Poppins-Medium.ttf",
+            "./assets/fonts/Poppins/Poppins-SemiBold.ttf",
+            "./assets/fonts/Poppins/Poppins-Bold.ttf",
+            "./assets/fonts/Bebas_Neue/BebasNeue-Regular.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
